@@ -1,4 +1,4 @@
-package com.onurcan;
+package com.lamdaexpressionsandmethodreferences;
 
 @FunctionalInterface
 public interface MyFunctionalInterface {

@@ -1,4 +1,4 @@
-package com.onurcan.functional;
+package com.lamdaexpressionsandmethodreferences.functional;
 
 import java.time.LocalDateTime;
 import java.util.function.Supplier;

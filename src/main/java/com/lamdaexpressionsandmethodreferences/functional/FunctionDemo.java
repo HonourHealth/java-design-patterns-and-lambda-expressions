@@ -1,4 +1,4 @@
-package com.onurcan.functional;
+package com.lamdaexpressionsandmethodreferences.functional;
 
 import java.util.function.Function;
 

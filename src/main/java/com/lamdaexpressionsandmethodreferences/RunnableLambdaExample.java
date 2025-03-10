@@ -1,4 +1,4 @@
-package com.onurcan;
+package com.lamdaexpressionsandmethodreferences;
 
 class TreadDemo implements Runnable {
     @Override

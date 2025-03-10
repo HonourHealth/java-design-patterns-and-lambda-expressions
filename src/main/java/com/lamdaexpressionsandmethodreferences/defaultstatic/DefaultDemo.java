@@ -1,4 +1,4 @@
-package com.onurcan.defaultstatic;
+package com.lamdaexpressionsandmethodreferences.defaultstatic;
 
 
 interface Vehicle {

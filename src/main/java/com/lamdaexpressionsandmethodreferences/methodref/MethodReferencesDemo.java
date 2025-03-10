@@ -1,4 +1,4 @@
-package com.onurcan.methodref;
+package com.lamdaexpressionsandmethodreferences.methodref;
 
 import java.util.ArrayList;
 import java.util.HashSet;

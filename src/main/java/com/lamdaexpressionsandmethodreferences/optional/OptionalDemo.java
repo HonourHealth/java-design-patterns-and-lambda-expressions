@@ -1,4 +1,4 @@
-package com.onurcan.optional;
+package com.lamdaexpressionsandmethodreferences.optional;
 
 import java.util.Optional;
 
@@ -28,6 +28,7 @@ public class OptionalDemo {
         Optional<String> emptyOptional = Optional.empty();
 
         gender.ifPresent(s -> System.out.println("value is present"));
+        gender.ifPresent(System.out::println);
 
 //        if (stringOptional.isPresent()) {
 //            System.out.println(stringOptional.get());
