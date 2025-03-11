@@ -1,5 +1,5 @@
 # java-design-patterns-and-lambda-expressions
 Java Design Patterns, Method References, Lambda Expressions
-<div style="text-align: center;">
+<div align="center">
     <h2>🚧 Under Construction 🚧</h2>
 </div>
